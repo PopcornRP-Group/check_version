@@ -16,6 +16,14 @@
             ]
         }
     },
+
+    "pcrp_cloakroom": {
+        "versions": {
+            "1.0.0": [
+                "Demo"
+            ]
+        }
+    },
     
     "material_sell": {
         "versions": {
